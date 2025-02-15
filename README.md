@@ -1,4 +1,4 @@
-#OG_Yuhaas
+# OG_Yuhaas
 
 The original Yuhaas website
 
@@ -6,7 +6,7 @@ Description
 
 This repository contains the source files for the original Yuhaas website.
 
-##Files Included
+## Files Included
 
 index.html - Main HTML file
 
@@ -22,7 +22,7 @@ webflow.js - Webflow-specific scripts
 
 Various Webflow badge icons and font files
 
-##Usage
+## Usage
 
 To view the website locally:
 
@@ -32,7 +32,7 @@ git clone https://github.com/ronaldjuhasz/og-yuhaas.git
 
 Open index.html in a web browser.
 
-##License
+## License
 
 This project follows standard licensing agreements. Contact the repository owner for details.
 
